@@ -1,5 +1,7 @@
 package com.fangin.leetcode.tree;
 
+import com.fangin.leetcode.def.TreeNode;
+
 /**
  * https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/
  * 给定一个二叉树，找出其最大深度。

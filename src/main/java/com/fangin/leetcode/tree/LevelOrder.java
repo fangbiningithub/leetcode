@@ -1,9 +1,10 @@
 package com.fangin.leetcode.tree;
 
+import com.fangin.leetcode.def.TreeNode;
+
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
-import java.util.concurrent.LinkedBlockingQueue;
 
 /**
  * 从上到下按层打印二叉树，同一层的节点按从左到右的顺序打印，每一层打印到一行。

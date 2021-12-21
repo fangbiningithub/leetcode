@@ -1,5 +1,7 @@
 package com.fangin.leetcode.tree;
 
+import com.fangin.leetcode.def.TreeNode;
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;

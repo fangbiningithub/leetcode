@@ -1,5 +1,7 @@
 package com.fangin.leetcode.tree;
 
+import com.fangin.leetcode.def.TreeNode;
+
 /**
  * 给你两棵二叉树的根节点 p 和 q ，编写一个函数来检验这两棵树是否相同。
  * <p>
