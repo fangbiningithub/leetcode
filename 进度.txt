@@ -1,11 +1,21 @@
+TODO:
+>动态规划原理，看一下
+>二分查找，边界条件
+
 1. 两数之和
-9. 回文数
-13. 罗马数字转整数
-14. 最长公共前缀
-20. 有效的括号
-21. 合并两个有序链表
-26. 删除有序数组中的重复项
-27. 移除元素
-28. 实现 strStr()
-35. 搜索插入位置
-53. 最大子数组和
+9. 回文数 com/fangin/leetcode/num/Palindrome.java
+13. 罗马数字转整数 com/fangin/leetcode/num/Roman.java
+14. 最长公共前缀 com/fangin/leetcode/str/CommonPrefix.java
+20. 有效的括号 com/fangin/leetcode/notype/Kuohao.java
+21. 合并两个有序链表 com/fangin/leetcode/list/Merge.java
+26. 删除有序数组中的重复项 com/fangin/leetcode/num/DelDuplicate.java
+27. 移除元素 com/fangin/leetcode/num/RemoveElement.java
+28. 实现 strStr() com/fangin/leetcode/str/SubStr.java
+35. 搜索插入位置 com/fangin/leetcode/search/SearchInsert.java
+53. 最大子数组和 com/fangin/leetcode/num/MaxSubArray.java
+58. 最后一个单词的长度  com/fangin/leetcode/str/LengthOfLastWord.java
+66. 加一  com/fangin/leetcode/num/PlusOne.java
+
+
+206. 反转链表 com/fangin/leetcode/list/Reverse.java
+876. 链表的中间结点 com/fangin/leetcode/list/Mid.java
