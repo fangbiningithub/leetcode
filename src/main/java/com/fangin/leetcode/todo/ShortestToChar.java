@@ -36,7 +36,4 @@ package com.fangin.leetcode.todo;
  */
 public class ShortestToChar {
 
-    public int[] shortestToChar(String s, char c) {
-
-    }
 }
